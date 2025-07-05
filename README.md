@@ -99,8 +99,7 @@ npm run dev
 
 ## 📧 Contact
 
-📧 **Email**: abhiramhn.33@gmail.com  
-🌍 **Website**: [https://wastewise-tradehub.com](https://wastewise-tradehub.com)  
+📧 **Email**: abhiramhn.33@gmail.com   
 📌 **GitHub Repo**: [WasteHandle Repository](https://github.com/AbhiramHN/WasteHandle)  
 📍 **Location**: Bangalore, India  
 
