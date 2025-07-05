@@ -59,8 +59,7 @@ npm install
 npm run dev
 \`\`\`
 
-### 4️⃣ Open in Browser
-Visit [http://localhost:3000](http://localhost:3000) to access the platform.
+
 
 ---
 
